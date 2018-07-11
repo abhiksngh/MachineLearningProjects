@@ -1,1 +1,2 @@
-# A few Machine Learning projects
+# Machine Learning projects
+Implementation of Supervised ML algorithms.
