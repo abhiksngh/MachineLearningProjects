@@ -1,2 +1,2 @@
 # Machine Learning projects
-Implementation of Supervised ML algorithms.
+Implementation of Supervised and Unsupervised ML algorithms.
